@@ -1,5 +1,5 @@
 # railroad
- 2023 제 1회 철도 인공지능 경진대
+ 2023 제 1회 철도 인공지능 경진대회
 
 https://aifactory.space/task/2511/overview
 
@@ -11,6 +11,6 @@ https://aifactory.space/task/2511/overview
 RNN, transformer를 구현하며 시계열 데이터를 사용한 모델 구현을 목표로 대회에 참가
 
 첫 시계열 데이터를 활용한 대회, 첫 RNN 기반 모델 구현  
-csv를 활용한 데이터 입출
+csv를 활용한 데이터 입출력
 
 
